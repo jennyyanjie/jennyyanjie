@@ -1,4 +1,4 @@
-# Hi, I'm Jenny 👋
+# Hi, I'm Allen 👋
 
 **English** · [中文](./README.zh-CN.md)
 
